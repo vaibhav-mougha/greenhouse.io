@@ -1,0 +1,115 @@
+
+
+
+.footer {
+    width: 100%;
+    background-color: rgb(2, 24, 24);
+    padding-top: 100px;
+}
+.sec1 {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.left {
+    width: 25%;
+}
+.left a {
+    text-decoration: none;
+    font-family:  'Kaisei Opti', serif;
+    color: whitesmoke;
+    font-size: 17px;
+    line-height: 150%;
+}
+.left a:hover {
+    text-decoration: underline;
+}
+.left p {
+    color: #008561;
+    line-height: 400%;
+    font-size: smaller;
+}
+.left div {
+    margin-bottom: 30px;
+}
+.right {
+    width: 30%;
+    color: whitesmoke;
+    padding-left: 10%;
+}
+.right h3 {
+    line-height: 350%;
+}
+.right p {
+    line-height: 150%;
+    font-size: medium;
+    margin-bottom: 50px;
+}
+.right label {
+    font-size: smaller;
+}
+.right input {
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-color: white;
+}
+.right button {
+    height: 40px;
+    width: 40%;
+    border: 1px solid whitesmoke;
+    border-radius: 40px;
+    background-color: rgb(21,55,44);
+    color: whitesmoke;
+    font-size: medium;
+    margin-bottom: 80px;
+}
+.option {
+    width: 90%;
+    height: 45px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    color: whitesmoke;
+    background-color: rgb(21,55,44);
+}
+.socialLink{
+    width: 80%;
+    margin: 50px 10%;
+    display: flex;
+}
+.socialLink div {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.footer-bottom {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: whitesmoke;
+    font-size: 10px;
+}
+.l2 {
+    display: flex;
+}
+.div1 {
+    width: 80%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.div2 {
+    width: 10%;
+    margin-right: 2%;
+}
+.div2 {
+    width: 10%;
+    margin-left: 2%;
+}
+.l2 a {
+    color: whitesmoke;
+}
+
+
