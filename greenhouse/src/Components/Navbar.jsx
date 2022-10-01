@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import "./navbar.css";
-
+import "./Navbar.css";
+// import searchlogo from "./Asset/";
 
 const Navbar = () => {
   return (
@@ -16,7 +16,7 @@ const Navbar = () => {
           <NavLink to="/product" style={{ textDecoration: "none" }}>
             <h5>Products&Solution</h5>
           </NavLink>
-          <div className="mega-box">
+          {/* <div className="mega-box">
             <div className="content">
               <div className="row">
                 <ul className="mega-links">
@@ -46,7 +46,7 @@ const Navbar = () => {
               </div>
               <div className="row"></div>
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="leftthird">
           <NavLink to="/resources" style={{ textDecoration: "none" }}>

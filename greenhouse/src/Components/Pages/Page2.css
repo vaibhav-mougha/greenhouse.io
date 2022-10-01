@@ -1,0 +1,31 @@
+
+.right-box img{
+    width: 100%;
+}
+
+.main-div {
+    display: flex;
+
+}
+.main-div .left-box {
+   width: 50%;
+   margin: auto;
+
+}
+.main-div .right-box {
+   width: 50%;
+   object-fit: fill;
+
+}
+.inside{
+    width: 70%;
+    margin: auto;
+}
+.inside p{
+  color: #15372c;
+}
+.inside h1{
+  color: #04251b;
+}
+
+
