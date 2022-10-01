@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /* border: 1px solid red; */
+ 
+}
+.first {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* border: 2px solid black; */
+  width: 60%;
+  margin: auto;
+}
+.first h1 {
+  color: #15372c;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.first p {
+  color: #15372c;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+.first button {
+  color: #15372c;
+  padding: 10px 40px;
+  border-radius: 40px;
+  color: white;
+  background-color: #15372c;
+  margin: auto;
+  margin-top: 40px;
+}
+.second img {
+  width: 100%;
+  /* object-fit: cover; */
+}
+.second {
+  /* border: 2px solid black; */
+  /* height: 70px; */
+}
+
+.third img {
+  /* margin-top: 10px; */
+  width: 100%;
+  object-fit: cover;
+}
+
+.fourth {
+  width: 70%;
+  margin: auto;
+  margin-top: 160px;
+}
+.fourth h1 {
+  margin-top: 160px;
+}
+.fourth button  {
+    margin-top: 50px;
+   padding: 10px 40px;
+   border: none;
+   border-radius: 50px;
+   color: aliceblue;
+   background-color: #15372c;
+
+}

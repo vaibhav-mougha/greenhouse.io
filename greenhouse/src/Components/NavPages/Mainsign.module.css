@@ -1,0 +1,39 @@
+
+
+
+.container{
+    display: flex;
+    background-color: aqua;
+    
+}
+
+
+.right input {
+    padding: 10px  50px;
+    border-radius: 10px;
+    margin-left: 200px;
+  
+}
+.right button {
+    padding: 10px  50px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: teal;
+    margin-left: 200px;
+   
+}
+.right h5:first-child{
+   
+    margin-top: 200px;
+}
+
+.right h5 {
+    margin-left: 200px;
+}
+.right button {
+   margin-top: 40px;
+}
+.right button:hover {
+   background-color: black;
+   cursor: pointer;
+}

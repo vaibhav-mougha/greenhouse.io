@@ -1,0 +1,38 @@
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    
+}
+.left{
+    width: 50%;
+    /* border: 4px solid black; */
+}
+.left div{
+    width: 80%;
+    /* border: 4px solid black; */
+    margin: auto;
+    margin-top: 250px;
+    padding-right: 100px;
+}
+.left div h1{
+    color: #17252c;
+    margin-bottom: 70px;
+}
+.right img{
+    width: 100%;
+    /* border: 4px solid black; */
+}
+
+.btn{
+    background-color: teal;
+    color: aliceblue;
+    padding: 10px 50px;
+    border-radius: 50px;
+    margin-top: 100px;
+}
+
+
+

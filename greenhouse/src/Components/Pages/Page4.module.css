@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+  width: 50%;
+}
+.left h1 {
+    margin-top: 80px;
+   margin-left: 70px;
+}
+.left h6{
+    margin-top: 80px;
+   margin-left: 70px;
+}
+.left p{
+    margin-top: 140px;
+   margin-left: 40px;
+}
+
+.right img {
+  width: 100%;
+}

@@ -10,7 +10,6 @@
   position: sticky;
   top: 0;
   background-color: white;
-  border: 2px solid red;
 }
 .active {
   color: antiquewhite;
@@ -85,11 +84,6 @@ h5:hover {
   text-decoration: none;
 }
 
-.rightsecond{
-  border: 5px solid black;
-  height: 50px;
-}
-
 .nav-btn-1 {
   padding: 4px 40px;
   border-radius: 40px;
@@ -101,7 +95,6 @@ h5:hover {
   background-color: #3574d6;
   border: none;
 }
-
 .nav-btn-2 h5 {
   color: aliceblue;
 }

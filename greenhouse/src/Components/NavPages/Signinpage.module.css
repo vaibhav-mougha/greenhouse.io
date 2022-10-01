@@ -1,0 +1,65 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /* border: 5px solid black; */
+}
+.first {
+  width: 50%;
+  border: 3x solid black;
+}
+
+.first div{
+    margin-left: 150px;
+}
+.first h1 {
+  color: #0f262c;
+  margin-bottom: 40px;
+}
+.second {
+  background-color: rgb(213, 235, 235);
+  border: 3x solid black;
+}
+.second button {
+  color: white;
+  background-color: #0f262c;
+  padding: 10px 50px;
+  border: 3x solid black;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.second .form {
+  background-color: rgb(226, 241, 241);
+  border: 3x solid black;
+}
+.second input {
+  padding: 10px 50px;
+  border: 3x solid black;
+  margin-top: 0px;
+  margin-left: 150px;
+  border-radius: 10px;
+}
+.second h6 {
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.third {
+  width: 50%;
+  border: 3x solid black;
+}
+.third img {
+  width: 200%;
+}
+.fourth {
+  width: 50%;
+  border: 3x solid black;
+}
+.fourth div {
+    width: 90%;
+  margin: auto;
+  margin-left: 250px;
+  margin-top: 150px;
+}
+.fourth div h1 {
+  color: #0f262c;
+}
