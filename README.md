@@ -1,5 +1,4 @@
-# grouchy-dinner-9447
-## Welcome to Greenhouse
+# Welcome to Greenhouse
 Greenhouse provides a recruiting software as a service.Greenhouse lets companies create a uniform interview procedure so candidates can be judged based on the same rubric.
 
 
